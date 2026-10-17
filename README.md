@@ -1,5 +1,7 @@
 # RailSense
 
+   Live app: https://your-real-link.streamlit.app
+
 Train delay predictor and connection-risk advisor. Enter your train, the weather and the gap
 to your next train, and RailSense predicts the delay and the chance you miss the connection.
 
@@ -50,4 +52,5 @@ prev_delay_min, delay_min`) and run `train.py` again. Nothing else needs to chan
    `.streamlit/config.toml` and the `models/` folder. Do not commit `venv/`.
 3. Go to share.streamlit.io, sign in with GitHub, choose the repository, set the main
    file to `app.py` and click Deploy.
-4. Add screenshots to this README once it is live.
+
+
